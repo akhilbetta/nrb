@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config-element id="9ea6f328-d903-41e6-bc33-a3afdc847b2d" version="0.0.0">
+  <display-name><![CDATA[guestConfig]]></display-name>
+  <atts>
+    <att name="username" type="string" read-only="false">
+      <value encoded="n"><![CDATA[root]]></value>
+    </att>
+    <att name="password" type="SecureString" read-only="false">
+      <value encoded="n"><![CDATA[9BJ57V65V6CS63N6FG6DN65Y40R31T1E6ECB8VC82276CZD936660LE5588DELEFE2B2BZ3E407B6GC0E0B6AI689D8FBQ8AA56ECP713EDBDRB2D77E5WD666539R876EFD1O3D65A98OBA252A4M49EA496YDBE607DWA12414AH3892212O2788C5AK337F02FZ97B01C8PFF09271V]]></value>
+    </att>
+  </atts>
+</config-element>
